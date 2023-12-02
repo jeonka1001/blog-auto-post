@@ -1,4 +1,4 @@
-# Auto posting System
+# Auto Posting System
 
 ### Description
 
