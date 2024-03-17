@@ -1,6 +1,3 @@
-#!/usr/bin/python
-# -*- coding: <encoding name> -*-
-
 import json
 
 def read_conf(path):
